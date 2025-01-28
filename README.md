@@ -33,7 +33,7 @@ Here are some tools and technologies I work with:
 ---
 
 ## 📈 Current Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jorgedjr21&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jorgedjr21&theme=github-dark)](https://git.io/streak-stats)
 
 
 ---
