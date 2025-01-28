@@ -27,13 +27,13 @@ Here are some tools and technologies I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedjr21&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jorgedjr21&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jorgedjr21&theme=github)
 
 
 ---
 
 ## 📈 Current Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgedjr21&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jorgedjr21&theme=radical)](https://git.io/streak-stats)
 
 
 ---
@@ -42,4 +42,4 @@ Here are some tools and technologies I work with:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgejd21/)
 
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=jorgedjr21.jorgedjr21)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjorgedjr21&count_bg=%237A7ADB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://github.com/jorgedjr21)
