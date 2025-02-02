@@ -27,8 +27,7 @@ Here are some tools and technologies I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedjr21&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jorgedjr21&theme=github)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jorgedjr21&theme=radical)
 
 ---
 
