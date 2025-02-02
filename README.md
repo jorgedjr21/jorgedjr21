@@ -6,7 +6,7 @@ I’m a passionate developer who loves exploring technology, learning new things
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Ruby, Ruby on Rails, Git, Docker**
 - 📫 How to reach me: **jorgedjr21@gmail.com**
-- ⚡ Fun fact: **I do workouts 6 days a week. Currently playing diablo 4 season 7.**
+- ⚡ Fun fact: **I do workouts 6 days a week 🏋️‍♂️. Currently playing diablo 4 season 7.**
 ---
 
 ## 🔧 Technologies & Tools
